@@ -1,9 +1,9 @@
 import * as fromTodo from './todo.actions';
 import { Todo } from './model/todo.model';
 
-const todo1 = new Todo('Vencer a Thanos');
-const todo2 = new Todo('Salvar el mundo');
-const todo3 = new Todo('Pedir prestado el traje de IronMan');
+const todo1 = new Todo('Ser un mindundi');
+const todo2 = new Todo('Tener cojones a hacer railes');
+const todo3 = new Todo('Aprender a jugar al loliyo, para que la gente no se enfade');
 
 todo2.completado = true;
 
